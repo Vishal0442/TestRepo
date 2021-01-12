@@ -7,3 +7,6 @@ def sun():
     
 def gun():
     pass
+
+def test1():
+    pass
